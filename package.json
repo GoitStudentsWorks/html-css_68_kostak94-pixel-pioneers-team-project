@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "bcon-68-pixel-pioneers",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/pixel-pioneers-team-project/",
+    "build": "vite build --base=/html-css_68_kostak94-pixel-pioneers-team-project//",
     "preview": "vite preview"
   },
   "devDependencies": {
